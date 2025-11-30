@@ -30,9 +30,9 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ![Screenshot do exercício ](assets/)
 
-### Exercício 03 - Médio - 
+### Exercício 03 - Médio - 300. Longest Increasing Subsequence
 
-![Screenshot do exercício ](assets/)
+![Screenshot do exercício ](assets/300_screenshot.png)
 
 ### Exercício 04 - Médio - 
 
