@@ -22,9 +22,9 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Screenshots
 
-### Exercício 01 - Difícil - 
+### Exercício 01 - Difícil - 1235. Maximum Profit in Job Scheduling
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/1235_screenshot.png)
 
 ### Exercício 02 - Difícil -  
 
@@ -40,7 +40,7 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Vídeo de apresentação do Trabalho 5
 
-[Link da apresentação do Trabalho 5](https://www.youtube.com/watch?v=hy_JzOCGfIY)
+[Link da apresentação do Trabalho 5]()
 
 ## Verificação
 
