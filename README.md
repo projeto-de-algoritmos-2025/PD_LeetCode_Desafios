@@ -40,7 +40,7 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Vídeo de apresentação do Trabalho 5
 
-[Link da apresentação do Trabalho 5]()
+[Link da apresentação do Trabalho 5](https://www.youtube.com/watch?v=I0V_C7PyZzQ)
 
 ## Verificação
 
