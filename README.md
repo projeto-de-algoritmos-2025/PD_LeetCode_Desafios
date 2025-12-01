@@ -26,17 +26,17 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ![Screenshot do exercício](assets/1235_screenshot.png)
 
-### Exercício 02 - Difícil -  
+### Exercício 02 - Difícil - 1092. Shortest Common Supersequence  
 
-![Screenshot do exercício ](assets/)
+![Screenshot do exercício](assets/1092_screenshot.png)
 
 ### Exercício 03 - Médio - 300. Longest Increasing Subsequence
 
 ![Screenshot do exercício ](assets/300_screenshot.png)
 
-### Exercício 04 - Médio - 
+### Exercício 04 - Médio - 743. Network Delay Time
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/743_screenshot.png)
 
 ## Vídeo de apresentação do Trabalho 5
 
